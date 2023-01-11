@@ -1,4 +1,11 @@
 <h1 align="center"> 👋, I'm Samuel Oliveira from Brazil 🇧🇷🇳</h1>
+<h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/samuel-oliveira19/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="samueljholiver" width="22px" />
+</a>
+  
 
 #### Programming Language Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" alt="javascript" title="javascript" width="40" height="40"/> <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="nodejs" title="nodejs" width="40" height="40"/> 
