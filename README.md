@@ -8,7 +8,7 @@
   
 
 #### Programming Language Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" alt="javascript" title="javascript" width="40" height="40"/> <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="nodejs" title="nodejs" width="40" height="40"/> 
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" alt="javascript" title="javascript" width="40" height="40"/> <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="nodejs" title="nodejs" width="40" height="40"/> <img src="https://www.pngwing.com/en/free-png-zqgct" alt="python" title="python"
 
 #### OS Stack
 <p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/> <img 
