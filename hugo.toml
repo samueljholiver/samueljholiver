@@ -204,12 +204,12 @@ url = "contact/"
 
 [languages.pt-br]
 languageName = ":brazil:"
-title = "João Ninguém"
+title = "Samuel Oliveira"
 
 [languages.pt-br.params]
-author = "João Ninguém"
-info = "Full Stack DevOps e Mágico"
-description = "Sítio pessoal de João Ninguém"
+author = "Samuel Oliveira"
+info = "SRE e Devops"
+description = "Blog pessoal de Samuel Oliveira"
 keywords = "blog,desenvolvedor,pessoal"
 
 [[languages.pt-br.menu.main]]
