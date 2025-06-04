@@ -1,11 +1,5 @@
-<h1 align="center"> 👋, I'm Samuel Oliveira from Brazil 🇧🇷🇳</h1>
-<h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/samuel-oliveira19/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="samueljholiver" width="22px" />
-</a>
-  
+<h1 align="center"> 👋, Eu sou Samuel Oliveira e moro no Brasil 🇧🇷🇳</h1>
+<h3 align="center">Sou um SRE/DevOps que ama automatizar coisas!</h3>
 
 #### Programming Language Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" alt="javascript" title="javascript" width="40" height="40"/> <img 
@@ -44,16 +38,3 @@ src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" alt="dynamodb" titl
 src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 <!--
 **samueljholiver/samueljholiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

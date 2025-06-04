@@ -1,5 +1,5 @@
 baseURL = "http://samueljholiver.github.io/samueljholiver"
-title = "My blog de SRE"
+title = "My blog SRE"
 theme = "coder"
 languageCode = "pt-br"
 defaultContentLanguage = "pt-br"
@@ -26,7 +26,7 @@ author = "Samuel Oliveira"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Blog pessoal de Samuel Oliveira"
 keywords = "blog,developer,personal"
-info = ["SRE e DevOps", "Magician"]
+info = ["SRE e DevOps"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "samueljholiver@gmail.com"
 dateFormat = "January 2, 2006"
@@ -188,7 +188,7 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "Posts"
 weight = 2
 url = "posts/"
 
@@ -204,11 +204,11 @@ url = "contact/"
 
 [languages.pt-br]
 languageName = ":brazil:"
-title = "Samuel Oliveira"
+title = "Meu blog SRE"
 
 [languages.pt-br.params]
 author = "Samuel Oliveira"
-info = "SRE e Devops"
+info = "SRE e DevOps"
 description = "Blog pessoal de Samuel Oliveira"
 keywords = "blog,desenvolvedor,pessoal"
 
@@ -218,7 +218,7 @@ weight = 1
 url = "about/"
 
 [[languages.pt-br.menu.main]]
-name = "Blog"
+name = "Posts"
 weight = 2
 url = "posts/"
 
