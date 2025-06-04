@@ -28,7 +28,7 @@ jobs:
   build:
     runs-on: ubuntu-latest # Usa a última versão estável do Ubuntu
     env:
-      HUGO_VERSION: 0.121.2 # Especifique a versão do Hugo que você usa. 'latest' também funciona.
+      HUGO_VERSION: 0.147.7 # Especifique a versão do Hugo que você usa. 'latest' também funciona.
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
