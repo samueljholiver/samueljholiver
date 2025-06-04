@@ -1,0 +1,4 @@
+baseURL = 'https://samueljholiver.github.io/'
+languageCode = 'pt-br'
+title = 'Meu Blog de SRE'
+theme = 'hugo-coder'
