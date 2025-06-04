@@ -1,4 +1,4 @@
-baseURL = "http://samueljholiver.github.io"
+baseURL = "http://samueljholiver.github.io/samueljholiver"
 title = "My blog de SRE"
 theme = "coder"
 languageCode = "pt-br"
